@@ -1,1 +1,1 @@
-# W207_ML_finalproject
+# This is a group project for the W207 Applied Machine Learning course at UC Berkeley
