@@ -35,3 +35,7 @@ Too many data points in November, and thus not enough data to train
 The topics are not evenly distributed.
 Given the distribution of the data, regression might not be the best model for the job. We found because our data has a lot of variance as well as a fat-tailed distribution, regression cannot fully capture that, a neural network with more data to train can potentially improve the results more.
 
+## Files:  
+There are three notebooks, Data_Gathering, Feature_Engineering and Regression_Models in progression of the project.  
+The final data file is located in Data folder.  
+ 
