@@ -13,7 +13,7 @@ Our New Data - [Forbes](https://www.forbes.com/) - 7k
 Issues:  
 Articles are mostly in Nov 2020, dynamic page, less standardized HTML than Mashable, harder to scrape.
 Given the language difference, we don't expect to get the same result.  
-Use WaybackMachine, InternetArchive to get past data, the lastest from each month for each topic.  
+Use WaybackMachine, InternetArchive to get past data, the lastest from each month for each topic for the entire year of 2020.  
 The key issue is to not scrape the same website more than once, harder to catch than expected.  
 Tried scraping nested links for more articles.  
 
