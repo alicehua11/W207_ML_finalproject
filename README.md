@@ -19,7 +19,7 @@ Tried scraping nested links for more articles.
 
 ## Features:   
 We tried to get as close as possible to the original features. We got 53 out of 60 features with our own additional features for a total of 65.  
-For the keyword features, previous authors did not mention the details of how some of the features were engineered the in 2015 paper. Thefore, we came up with our own calculation method, thanks to [@GurditC](https://github.com/GurditC).  
+For the keyword features, previous authors did not mention the details of how some of the features were engineered the in the original 2015 paper by K. [Fernandes, P. Vinagre and P. Cortez.](https://www.researchgate.net/publication/283510525_A_Proactive_Intelligent_Decision_Support_System_for_Predicting_the_Popularity_of_Online_News). Thefore, we came up with our own calculation method, thanks to [@GurditC](https://github.com/GurditC).  
 ![](image/keywords.jpg)
 
 ## Model(s):
